@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Kiriql/kiriql/blob/main/assets/giphy.gif)]
 
 About me
 
