@@ -1,4 +1,5 @@
-![Header](https://github.com/Kiriql/kiriql/blob/main/assets/OptimisticUglyAmurstarfish-max-1mb.gif)
+![Header](https://github.com/Kiriql/kiriql/blob/main/assets/OptimisticUglyAmurstarfish-max-1mb.gif
+        https://github.com/Kiriql/kiriql/blob/main/assets/giphy.gif)
 
 ## I'm a student and a beginner programmer!
 
