@@ -2,6 +2,9 @@
 
 ## I'm a student and a beginner programmer!
 
+### Latest YouTube videos
+![YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=channelId)
+
 ### Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=0000)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=357fb9)
