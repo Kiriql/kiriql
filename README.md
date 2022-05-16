@@ -4,7 +4,7 @@
 
 ## Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=0000)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=f2c83f)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=357fb9)
 ![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=С%2b%2b&logoColor=47C5FB)
 
 Follow me
