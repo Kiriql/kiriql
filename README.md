@@ -2,7 +2,7 @@
 
 ## I'm a student and a beginner programmer!
 
-### Latest YouTube videos
+### Latest YouTube video (you need to watch this!)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ### Languages and Tools
