@@ -3,7 +3,7 @@
 ## I'm a student and a beginner programmer!
 
 ### Latest YouTube videos
-![YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=channelId)
+(https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ### Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=0000)
