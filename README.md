@@ -3,6 +3,8 @@
 ## I'm a student and a beginner programmer
 
 ## Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=0000)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=f2c83f)
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=С\#&logoColor=47C5FB)
 
 Follow me
