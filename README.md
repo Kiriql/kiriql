@@ -5,7 +5,7 @@
 ### Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=0000)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=357fb9)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%20?logo=cplusplus&logoColor=%23044F88&labelColor=%23D5E4F3&color=%23D5E4F3)
+[![Static Badge](https://img.shields.io/badge/C%2B%2B-%20?logo=cplusplus&logoColor=%23044F88&labelColor=%23D5E4F3&color=%23D5E4F3)](https://img.shields.io/badge/-C%2B%2B-090909?style=for-the-badge&logo=cplusplus&logoColor=357fb9)
 
 
 ### Follow me
