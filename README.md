@@ -1,14 +1,21 @@
 ![Header](https://github.com/Kiriql/kiriql/blob/main/assets/OptimisticUglyAmurstarfish-max-1mb.gif)
 
-## I'm a student and a beginner programmer!
+## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### Languages and Tools
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=0000)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=357fb9)
-![C++](https://img.shields.io/badge/-C%2B%2B-090909?style=for-the-badge&logo=cplusplus&logoColor=357fb9)
+### I'm C++ developer, I like games and technology
 
+- 📫 How to reach me:  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me//kiriql)
+> 
 
-### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kiriql)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/kiriql)
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)
+### ✨Technical Stack:✨
+<br />
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UnrealEngine" alt="UnrealEngine" width="47" height="47" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="47" height="47" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="CMake" width="47" height="47" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="47" height="47" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="47" height="47" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="47" height="47" />
+</div>
+
+> 
