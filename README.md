@@ -5,7 +5,7 @@
 ### Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=0000)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=357fb9)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=%D0%A1%2B%2B)
+[![CPP](https://img.shields.io/badge/dynamic/json?url=%D0%A1%2B%2B)](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kiriql)
